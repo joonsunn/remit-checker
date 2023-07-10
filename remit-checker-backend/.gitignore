@@ -1,0 +1,8 @@
+puppeteer.mjs
+scrape.mjs
+node_modules
+build
+.dockerignore
+.env
+Dockerfile
+fly.toml
